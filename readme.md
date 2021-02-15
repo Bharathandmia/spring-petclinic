@@ -141,11 +141,4 @@ hello how are you uuuuuuuuuuuuuuuuuuuuuuuuuu
 For pull requests, editor preferences are available in the editor config for easy use in common text editors. Read more and download plugins at https://editorconfig.org. If you have not previously done so, please fill out and submit the Contributor License Agreement.
 
 License
-The Spring PetClinic sample application is released under version 2.0 of the Apache License.
-
-hello how are you this is bharath kumar
-=======
-hello
-how are you
-this is bharath kumar 
->>>>>>> 314f013b4b972f291b51ddf0658c2ad8a2b80d90
+The Spring PetClinic sample application is released under version 2.0 of the Apache Lic
