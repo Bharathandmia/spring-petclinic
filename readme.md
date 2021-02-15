@@ -131,6 +131,7 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 [spring-petclinic-graphql]: https://github.com/spring-petclinic/spring-petclinic-graphql
 [spring-petclinic-kotlin]: https://github.com/spring-petclinic/spring-petclinic-kotlin
 [spring-petclinic-rest]: https://github.com/spring-petclinic/spring-petclinic-rest
+<<<<<<< HEAD
 bharath kumar java developer working in one of the company
 
 
@@ -143,3 +144,8 @@ License
 The Spring PetClinic sample application is released under version 2.0 of the Apache License.
 
 hello how are you this is bharath kumar
+=======
+hello
+how are you
+this is bharath kumar 
+>>>>>>> 314f013b4b972f291b51ddf0658c2ad8a2b80d90
