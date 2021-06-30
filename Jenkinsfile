@@ -1,12 +1,12 @@
 pipeline {
     agent { label 'first'}
     stages {
-        stage('scm') {
+        stage('SCM') {
             steps {
                 git 'https://github.com/Bharathandmia/spring-petclinic.git'
             }
         }
-        stage('build') {
+        stage('Build') {
             steps {
                 sh script: 'mvn clean package'
             }
